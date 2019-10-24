@@ -1,4 +1,4 @@
-package org.yourorghere;
+
 
 import javax.media.opengl.*;
 import javax.media.opengl.glu.*;
